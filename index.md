@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: AUTOSYSTEM HONG KONG AI
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+   Our goal is to deliver the technologies developed to solve the social challenges in Hong Kong and GBA areas!
   action: # action button is optional
     label: Find Out More
     url: '#about'
