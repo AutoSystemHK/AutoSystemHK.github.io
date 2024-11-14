@@ -13,13 +13,14 @@ sections:
 - type: address.html
   section_id: address
   title: You are welcome!
-  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1784803899586!2d-71.56614568458906!3d42.338717979188324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6335220b7c08850a!2sMarlborough%20District%20Court!5e0!3m2!1sen!2sbg!4v1583193778570!5m2!1sen!2sbg
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14765.192376093915!2d114.16155225541986!3d22.304563299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400e809c71ff1%3A0xeb7151a34a54910d!2z6aaZ5riv55CG5bel5aSn5a2m!5e0!3m2!1szh-CN!2shk!4v1731591656623!5m2!1szh-CN!2shk
+  
   address:
     title: Address
     text: >
-      45 Williams St,<br/>
-      Marlborough, MA 01752,<br/>
-      United States
+      11 Yuk Choi Road,<br/>
+      Hung Hom, KLN,<br/>
+      Hong Kong
   phone:
     title: Phones
     text: >
