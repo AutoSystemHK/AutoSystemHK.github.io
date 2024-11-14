@@ -50,12 +50,12 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Connected Autonomous System
+        text: Vehicle Infrastructure Collaboration
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: 1_vehicle_infrastructure_platform.png
         url: '#'
       - title: Project 2
         text: This is a very short project description.
