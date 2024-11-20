@@ -25,25 +25,25 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: bi-gem text-info
+      - title: Seamless Navigation
+        text: Seamless navigation module in complex environments
+        icon: bi-geo-alt-fill
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: High Accuacy Mapping
+        text: High accuacy urban mapping!
         icon: bi-rocket-takeoff
-      - title: Up to Date
+      - title: Connected and Autonomous system 
         text: We update dependencies to keep things fresh.
-        icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+        icon: bi-car-front
+      - title: Low-altitude Solutions
+        text: Low-altitude systems and solutions
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: bi-emoji-sunglasses-fill
+      # - title: Other 1
+      #   text: Some not-so long text here.
+      #   icon: bi-emoji-heart-eyes
+      # - title: Other 2
+      #   text: Some not-so long text here.
+      #   icon: bi-emoji-sunglasses-fill
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
