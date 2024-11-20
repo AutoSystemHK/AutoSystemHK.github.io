@@ -10,15 +10,15 @@ header:
 
 
 sections:
-  - type: call-to-action.html
-    section_id: about
-    background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
-    actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
+  # - type: call-to-action.html
+  #   section_id: about
+  #   background_style: bg-primary
+  #   title: We've got what you need!
+  #   text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+  #   actions:
+  #     - title: Get Started!
+  #       url: '#page-top'
+  #       class: btn-light
 
   - type: services.html
     section_id: services
@@ -28,7 +28,7 @@ sections:
       - title: Seamless Navigation
         text: Seamless navigation module in complex environments
         icon: bi-geo-alt-fill
-        url: https://startbootstrap.com/
+        # url: https://startbootstrap.com/
       - title: High Accuacy Mapping
         text: High accuacy urban mapping!
         icon: bi-rocket-takeoff
@@ -37,7 +37,7 @@ sections:
         icon: bi-car-front
       - title: Low-altitude Solutions
         text: Low-altitude systems and solutions
-        icon: bi-heart-fill
+        icon: bi-airplane
       # - title: Other 1
       #   text: Some not-so long text here.
       #   icon: bi-emoji-heart-eyes
