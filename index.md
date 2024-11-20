@@ -124,18 +124,18 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2024
+          **AutosystemHK Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
           teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+      # - image: assets/img/portfolio/thumbnails/2.jpg
+      #   title: >+
+      #     November 2019
+      #     An Coaching started
+      #   text: >-
+      #     We started to gather like minded people and started our stategies
+      #     and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
     section_id: contacts
