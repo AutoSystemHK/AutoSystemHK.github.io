@@ -25,19 +25,23 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Seamless Navigation
-        text: Seamless navigation module in complex environments
-        icon: bi-geo-alt-fill
-        # url: https://startbootstrap.com/
-      - title: High Accuacy Mapping
-        text: High accuacy urban mapping!
-        icon: bi-rocket-takeoff
-      - title: Connected and Autonomous system 
-        text: We update dependencies to keep things fresh.
-        icon: bi-car-front
-      - title: Low-altitude Solutions
-        text: Low-altitude systems and solutions
+      - title: Design UTM for LAE 
+        text: Design Unmanned aircraft system traffic management (UTM) to support LAE
         icon: bi-airplane
+        # url: https://startbootstrap.com/
+      - title: Trustworthy delivery with drones 
+        text: Trustworthy delivery with drones 
+        icon: bi-box
+        # url: https://startbootstrap.com/
+      # - title: High Accuacy Mapping
+      #   text: High accuacy urban mapping!
+      #   icon: bi-rocket-takeoff bi-geo-alt-fill
+      - title: Trustworthty Connected and Autonomous system
+        text: Trustworthty CAV system
+        icon: bi-car-front
+      - title: High Accuacy Mapping
+        text: High accuacy urban mapping
+        icon: bi-geo-alt-fill
       # - title: Other 1
       #   text: Some not-so long text here.
       #   icon: bi-emoji-heart-eyes
