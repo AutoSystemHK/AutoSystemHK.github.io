@@ -65,23 +65,14 @@ sections:
         # img/portfolio/thumbnails
         icon: vehicle_infrastructure_platform.png
         url: '#'
-      - title: Project 3
+      - title: AI Classification
         text: This is a very short project description.
-        icon: 3.jpg
+        icon: vehicle_detection.png
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
+      - title: High Accuacy Mapping
+        text: High Accuacy Mapping.
+        icon: mapping.png
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
 
   - type: aside.html
     section_id: aside
