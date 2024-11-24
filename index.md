@@ -88,7 +88,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Feng Huang
-        text: Co-Founder
+        text: Founder/CEO
         image: assets/img/members/huangfeng.png
         url: '#'
       - title: Dr. Weisong Wen
