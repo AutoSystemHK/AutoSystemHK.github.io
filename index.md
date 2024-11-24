@@ -55,7 +55,7 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Trustworthy delivery with drones 
-        text: This is a very short project description.
+        text: Trustworthy delivery with drones .
         icon: Delivery_UAV.jpg
         url: '#'
       - title: Connected Autonomous System
@@ -66,7 +66,7 @@ sections:
         icon: vehicle_infrastructure_platform.png
         url: '#'
       - title: AI Classification
-        text: This is a very short project description.
+        text: Trustworthy delivery with drones.
         icon: vehicle_detection.png
         url: '#'
       - title: High Accuacy Mapping
