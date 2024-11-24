@@ -69,17 +69,17 @@ sections:
         text: Trustworthy delivery with drones.
         icon: vehicle_detection.jpg
         url: '#'
-      - title: High Accuacy Mapping
-        text: High Accuacy Mapping.
+      - title: High Accuacy Positioning
+        text: High Accuacy Positioning.
         icon: mapping.jpg
         url: '#'
-      - title: Collaborative GNSS Factor Graph Optimization 
-        text: Collaborative GNSS Factor Graph Optimization.
-        icon: CollaborativeGNSS.jpg
+      - title: CAV mapping project
+        text: High 
+        icon: mapping_HKSC.jpg
         url: '#'
-      - title: Sensor Failure Detection
-        text: Navigation Service Under Sensor Failures.
-        icon: safety_failure.jpg
+      - title: HD Map Vectorization
+        text: HD Map Vectorization.
+        icon: vector_map.jpg
         url: '#'
   # - type: aside.html
   #   section_id: aside
