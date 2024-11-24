@@ -74,7 +74,7 @@ sections:
         icon: mapping.jpg
         url: '#'
       - title: CAV mapping project
-        text: High 
+        text: HD mapping for CAV
         icon: mapping_HKSC.jpg
         url: '#'
       - title: HD Map Vectorization
