@@ -63,15 +63,15 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: vehicle_infrastructure_platform.png
+        icon: vehicle_infrastructure_platform.jpg
         url: '#'
       - title: AI Classification
         text: Trustworthy delivery with drones.
-        icon: vehicle_detection.png
+        icon: vehicle_detection.jpg
         url: '#'
       - title: High Accuacy Mapping
         text: High Accuacy Mapping.
-        icon: mapping.png
+        icon: mapping.jpg
         url: '#'
 
   # - type: aside.html
