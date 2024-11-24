@@ -82,6 +82,7 @@ sections:
         icon: 6.jpg
         url: '#'
 
+
   - type: aside.html
     section_id: aside
     title: Free Download at Start Bootstrap!
@@ -95,30 +96,30 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: Feng Huang
+        text: Co-Founder
+        image: assets/img/members/huangfeng.png
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: Dr. Weisong Wen
+        text: Chief Technology Officer
+        image: assets/img/members/weisongwen.png
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Jiahao Hu
+        text: Engineer
+        image: assets/img/members/jiahaohu.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+      - title: Dr Winnie Tang
+        text: Dr Winnie Tang
+        image: assets/img/members/WinnieTANG.png
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      # - title: Daniel T. Riley
+      #   text: Musician, songwriter, producer.
+      #   image: assets/img/members/person6.jpg
+      #   url: '#'
+      # - title: Ella P. Walter
+      #   text: PR.
+      #   image: assets/img/members/person7.jpg
+      #   url: '#'
 
   - type: timeline.html
     section_id: timeline
