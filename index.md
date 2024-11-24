@@ -92,7 +92,7 @@ sections:
         image: assets/img/members/huangfeng.png
         url: '#'
       - title: Dr. Weisong Wen
-        text: Chief Technology Officer
+        text: Research advisor
         image: assets/img/members/weisongwen.png
         url: '#'
       # - title: Jiahao Hu
@@ -100,7 +100,7 @@ sections:
       #   image: assets/img/members/jiahaohu.jpg
       #   url: '#'
       - title: Dr Winnie Tang
-        text: Academic/industry adviser
+        text: Academic/industry advisor
         image: assets/img/members/WinnieTANG.png
         url: '#'
       # - title: Daniel T. Riley
