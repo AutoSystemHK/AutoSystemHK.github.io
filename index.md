@@ -54,16 +54,16 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
+      - title: Trustworthy delivery with drones 
+        text: This is a very short project description.
+        icon: Delivery_UAV.jpg
+        url: '#'
       - title: Connected Autonomous System
         text: Vehicle Infrastructure Collaboration
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1_vehicle_infrastructure_platform.png
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
+        icon: vehicle_infrastructure_platform.png
         url: '#'
       - title: Project 3
         text: This is a very short project description.
