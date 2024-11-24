@@ -95,12 +95,12 @@ sections:
         text: Chief Technology Officer
         image: assets/img/members/weisongwen.png
         url: '#'
-      - title: Jiahao Hu
-        text: Engineer
-        image: assets/img/members/jiahaohu.jpg
-        url: '#'
+      # - title: Jiahao Hu
+      #   text: Engineer
+      #   image: assets/img/members/jiahaohu.jpg
+      #   url: '#'
       - title: Dr Winnie Tang
-        text: Dr Winnie Tang
+        text: Academic/industry adviser
         image: assets/img/members/WinnieTANG.png
         url: '#'
       # - title: Daniel T. Riley
