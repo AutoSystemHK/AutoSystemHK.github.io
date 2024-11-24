@@ -73,7 +73,14 @@ sections:
         text: High Accuacy Mapping.
         icon: mapping.jpg
         url: '#'
-
+      - title: Collaborative GNSS Factor Graph Optimization 
+        text: Collaborative GNSS Factor Graph Optimization.
+        icon: CollaborativeGNSS.jpg
+        url: '#'
+      - title: Sensor Failure Detection
+        text: Navigation Service Under Sensor Failures.
+        icon: safety_failure.jpg
+        url: '#'
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
