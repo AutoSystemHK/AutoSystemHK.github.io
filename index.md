@@ -96,7 +96,7 @@ sections:
     members:
       - title: Feng Huang
         text: Founder/CEO
-        image: assets/img/members/huangfeng.png
+        image: assets/img/members/huangfeng.jpg
         url: '#'
       - title: Dr. Weisong Wen
         text: Research advisor
