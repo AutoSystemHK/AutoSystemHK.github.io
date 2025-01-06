@@ -133,10 +133,10 @@ sections:
           Our goal is to deliver the technologies developed to solve the social challenges in Hong Kong and GBA areas!
       - image: assets/img/portfolio/thumbnails/polyuVentures_logo.png
         title: >+
-          January 2025
-          **Top Performers in PolyU icro Fund 2024-25 Cohort 1**
+          Jan 2025
+          **Top Performers in PolyU Micro Fund 2024-25 Cohort 1**
         text: >-
-          We received the micro funding support from HK PolyU!
+          We received the funding support from HK PolyU!
 
   - type: contact.html
     section_id: contacts
