@@ -127,18 +127,16 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2024
+          2025
           **AutosystemHK Beginnings**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      # - image: assets/img/portfolio/thumbnails/2.jpg
-      #   title: >+
-      #     November 2019
-      #     An Coaching started
-      #   text: >-
-      #     We started to gather like minded people and started our stategies
-      #     and future plans to them. As a result , interested people joined us!
+          Our goal is to deliver the technologies developed to solve the social challenges in Hong Kong and GBA areas!
+      - image: assets/img/portfolio/thumbnails/polyuVentures_logo.jpg
+        title: >+
+          January 2025
+          Top Performers in PolyU icro Fund 2024-25 Cohort 1
+        text: >-
+          We received the micro funding support from HK PolyU!
 
   - type: contact.html
     section_id: contacts
@@ -147,11 +145,11 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: bi-telephone-fill
+    # - title: +1 (202) 555-014
+    #   icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
+      url: mailto:darrenwongf@gmail.com
     - title: Twitter
       icon: bi-twitter
       url: '#'
