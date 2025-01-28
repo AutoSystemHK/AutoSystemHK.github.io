@@ -149,7 +149,7 @@ sections:
     #   icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:darrenwongf@gmail.com
+      url: mailto:autosystemhk.ai@gmail.com
     - title: Twitter
       icon: bi-twitter
       url: '#'

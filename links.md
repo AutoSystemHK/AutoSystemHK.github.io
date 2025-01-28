@@ -21,11 +21,15 @@ sections:
       11 Yuk Choi Road,<br/>
       Hung Hom, KLN,<br/>
       Hong Kong
-  phone:
-    title: Phones
+  # phone:
+  #   title: Phones
+  #   text: >
+  #     +1 (202) 555-014<br/>
+  #     +1 (202) 555-015
+  email:
+    title: Email
     text: >
-      +1 (202) 555-014<br/>
-      +1 (202) 555-015
+      autosystemhk.ai@gmail.com
 # - type: paragraph.html
 #   section_id: help
 #   title: Get some help!
