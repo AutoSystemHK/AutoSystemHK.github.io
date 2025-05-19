@@ -137,7 +137,7 @@ sections:
           **Final Awardee and Top Performers in PolyU Micro Fund 2024-25 Cohort 1**
         text: >-
           We received the funding support from HK PolyU!
-      - image: assets/img/portfolio/thumbnails/delivery_UAV.jpg
+      - image: assets/img/portfolio/thumbnails/Delivery_UAV.jpg
         title: >+
           March 2025
           **Selected in the first batch Low-altitude Economy Regulatory Sandbox in Hong Kong**
