@@ -137,7 +137,13 @@ sections:
           **Final Awardee and Top Performers in PolyU Micro Fund 2024-25 Cohort 1**
         text: >-
           We received the funding support from HK PolyU!
-
+      - image: assets/img/portfolio/thumbnails/delivery_UAV.jpg
+        title: >+
+          March 2025
+          **Selected in the first batch Low-altitude Economy Regulatory Sandbox in Hong Kong**
+        text: >-
+          We are the solution provider for the project "Unmanned aircraft delivery in the Hong Kong Hetao area"
+        
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
